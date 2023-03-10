@@ -1,0 +1,453 @@
+a {
+  text-decoration: none;
+}
+
+.LIFESTYLE_nav:hover { 
+  color: blue;
+width: 71px; 
+height: 19px; 
+
+
+font-family: 'Playfair Display'; 
+font-style: normal; 
+font-weight: 400; 
+font-size: 14px; 
+line-height: 19px; 
+
+
+color: #7D7D7D; 
+} 
+
+.PHOTODIARY_nav:hover{ 
+  color: blue;
+width: 89px; 
+height: 19px; 
+
+
+font-family: 'Playfair Display'; 
+font-style: normal; 
+font-weight: 400; 
+font-size: 14px; 
+line-height: 19px; 
+
+
+color: #7D7D7D; 
+}
+
+.MUSIC_nav:hover {
+color: blue;
+width: 44px;
+height: 19px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+
+color: #7D7D7D;
+
+}
+
+.TRAVEL_nav:hover {
+color: blue;
+width: 52px;
+height: 19px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+
+color: #7D7D7D;
+
+}
+
+.ul_nav {
+  list-style: none;
+}
+
+.img_1.img_1:nth-child(2n) {
+  background-color: darkblue;
+width: 420px;
+height: 280px;
+
+
+background: url(1.png.png);
+}
+
+.img_2 {
+
+width: 420px;
+height: 280px;
+
+
+background: url(2.png);
+}
+
+.img_3.ul_nav:nth-child(2n) {
+  background-color: darkblue;
+width: 420px;
+height: 280px;
+
+
+background: url(3.png);
+}
+
+.img_4:nth-child(2n) {
+  background-color: darkblue;
+
+width: 420px;
+height: 280px;
+
+
+background: url(4.png);
+}
+
+.img_5:nth-child(2n) {
+  background-color: darkblue;
+
+width: 420px;
+height: 280px;
+
+
+background: url(1.png);
+}
+
+.img_6:nth-child(2n) {
+  background-color: darkblue;
+
+width: 419px;
+height: 280px;
+
+
+background: url(2.png);
+}
+
+.p1 {
+
+width: 64px;
+height: 16px;
+
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+color: #B4AD9E;
+
+}
+
+.p2 {
+
+width: 64px;
+height: 16px;
+
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+
+color: #B4AD9E;
+}
+
+.p3 {
+
+width: 86px;
+height: 16px;
+
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+
+color: #B4AD9E;
+}
+
+.p4 {
+
+width: 86px;
+height: 16px;
+
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+
+color: #B4AD9E;
+}
+
+.p5 {
+
+width: 64px;
+height: 16px;
+
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+
+color: #B4AD9E;
+}
+
+.p6 {
+
+width: 64px;
+height: 16px;
+
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+
+color: #B4AD9E;
+
+
+}
+
+.More {
+
+width: 408px;
+height: 40px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+
+
+color: #626262;
+}
+
+.Life {
+
+width: 379px;
+height: 40px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+
+
+color: #626262;
+
+}
+
+.American {
+
+width: 225px;
+height: 40px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+
+
+color: #626262;
+
+}
+
+.A_day {
+
+width: 324px;
+height: 40px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+
+
+color: #626262;
+
+}
+
+.Top_10 {
+
+width: 321px;
+height: 40px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+
+
+color: #626262;
+}
+
+.Cold {
+
+width: 226px;
+height: 40px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+
+
+color: #626262;
+
+}
+
+.Lorem1 {
+
+width: 420px;
+height: 76px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+
+.Lorem2 {
+
+width: 420px;
+height: 76px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+
+.Lorem3 {
+
+width: 420px;
+height: 76px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+
+.Lorem4 {
+
+width: 420px;
+height: 76px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+}
+
+.Lorem5 {
+
+width: 420px;
+height: 76px;
+
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+
+.Lorem6 {
+width: 420px;
+height: 76px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+
+.button {
+width: 165px;
+height: 60px;
+
+border: 1px solid #626262;
+}
+
+.button_text {
+width: 68px;
+height: 19px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+
+color: #626262;
+
+}
